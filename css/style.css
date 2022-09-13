@@ -63,7 +63,7 @@ hr{
     padding: 15px;
 }
 
-#check{
+.check{
     width: 20px;
     height: 20px;
     padding: 1px;
@@ -108,11 +108,20 @@ h2{
     background-color: #45ABEA;
 }
 
+#editorial2{
+    background-color: #45ABEA;
+}
+
+#editorial3{
+    background-color: #45ABEA;
+}
+
+
 #q1{
     background-color: #9C72E4;
 }
 
-#to-do{
+.to-do{
     width: 20px;
     height: 20px;
     padding: 1px;
