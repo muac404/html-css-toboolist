@@ -5,7 +5,7 @@
 
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: lightgray;
+    background-color: #F6F8F9;
 }
 
 header{
@@ -22,4 +22,19 @@ img{
 h1{
     display: inline-block;
     vertical-align: middle;
+}
+
+.container{
+    max-width: 800px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+.button{
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+
 }
