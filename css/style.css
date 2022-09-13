@@ -30,6 +30,7 @@ h1{
     margin-left: auto;
     margin-right: auto;
     margin-top: 40px;
+    border-radius: 5px;
 }
 
 .button{
@@ -37,4 +38,54 @@ h1{
     border: none;
     border-radius: 5px;
 
+}
+
+.corpo-pagina{
+    width: 80%;
+    margin: auto;
+    padding: 15px;
+}
+
+#check{
+    width: 20px;
+    height: 20px;
+    padding: 1px;
+    padding-top: 0;
+    border: 1px solid green;
+    color: green;
+    vertical-align: middle;
+    border-radius: 50%;
+    font-size: 14px;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+.allineamento-task{
+    width: 80%;
+    margin: auto;
+    padding-left: 15px;
+
+}
+
+h2{
+    padding: 10px;
+}
+
+.task-text{
+    display: inline-block;
+    font-weight: 500;
+}
+
+.tag{
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 6px;
+    border: none;
+    color: white;
+    padding: 3px;
+}
+
+#editorial{
+    background-color: #45ABEA;
 }
