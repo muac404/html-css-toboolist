@@ -40,6 +40,19 @@ h1{
 
 }
 
+#blue-button{
+    background-color: #45ABEA;
+    color: white;
+    
+}
+
+
+#white-button{
+    background-color: white;
+    color:  lightgrey;
+    border: 1px solid lightgrey;
+}
+
 hr{
     border: 1px solid #F6F8F9;
 }
